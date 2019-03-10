@@ -8,7 +8,9 @@ Video 2 - Unity3d Editor Tutorial - Unit3d Editor overview on hierarchy, game vi
 
 Video 3 - Unity3d Editor Tutorial - How to create 3D Objects with Unity3d ?
 
-Video 4 - Unity3d Editor Tutorial - How to create and configure 3D Object colliders ?
+Video 4 - Unity3d Editor Tutorial - How to use source control with Unity3d ?
 
-Video 5 - Unity3d Editor Tutorial - How to create, configure, and use cameras in Unity3d ?
+Video 5 - Unity3d Editor Tutorial - How to create and configure 3D Object colliders ?
+
+Video 6 - Unity3d Editor Tutorial - How to create, configure, and use cameras in Unity3d ?
 
