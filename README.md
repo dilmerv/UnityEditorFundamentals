@@ -1,5 +1,6 @@
 # UnityEditorFundamentals
-Unity Editor Fundamentals video source code
+
+Unity Editor Fundamentals - A video series about using the Unity3d Editor for beginners who want to learn to make games. Find the video course playlist at -> [YouTube Channel](https://www.youtube.com/watch?v=vwwWjDgaOzo&list=PLQMQNmwN3FvwlKzA6gmq4AOsf75lUJerE)
 
 Video 1 - Unity3d Editor Tutorial - Installing the Unity Editor and adding platform components
 
