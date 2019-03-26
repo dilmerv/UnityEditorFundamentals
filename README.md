@@ -14,3 +14,17 @@ Video 5 - Unity3d Editor Tutorial - How to create and configure 3D Object collid
 
 Video 6 - Unity3d Editor Tutorial - How to create, configure, and use cameras in Unity3d ?
 
+Video 7 - Unity3d Editor Tutorial - Unity3d Lifecycle and execution order of event functions
+
+* Awake()
+* Start()
+* Update()
+* LateUpdate()
+* FixedUpdate()
+* OnEnable()
+* OnDisable()
+* OnDestroy()
+
+Video 8 - Unity3d Editor Tutorial - What are prefabs and how to use prefabs in your own games ?
+
+Video 9 - Unity3d Editor Tutorial - Unity3d C# Basic overview and Unity3d Inpector Serializable Fields
