@@ -28,3 +28,5 @@ Video 7 - Unity3d Editor Tutorial - Unity3d Lifecycle and execution order of eve
 Video 8 - Unity3d Editor Tutorial - What are prefabs and how to use prefabs in your own games ?
 
 Video 9 - Unity3d Editor Tutorial - Unity3d C# Basic overview and Unity3d Inpector Serializable Fields
+
+Video 10 - Unity3d Editor Tutorial - Creating and Using Tags and Layers through inspector and scripts
