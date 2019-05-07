@@ -30,3 +30,5 @@ Video 8 - Unity3d Editor Tutorial - What are prefabs and how to use prefabs in y
 Video 9 - Unity3d Editor Tutorial - Unity3d C# Basic overview and Unity3d Inpector Serializable Fields
 
 Video 10 - Unity3d Editor Tutorial - Creating and Using Tags and Layers through inspector and scripts
+
+Video 11 - Unity3d Editor Tutorial - Adding Music, Audio Sources, and Interacting with Audio Through Scripts
